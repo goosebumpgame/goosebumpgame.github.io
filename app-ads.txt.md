@@ -9,6 +9,7 @@ facebook.com, 630800682170856, DIRECT, c3e20eee3f780d68
 facebook.com, 1202985747243582, RESELLER, с3e20eee3f780d68
 facebook.com, 753945852940369, RESELLER, c3e20eee3f780d68
 facebook.com, 775504077615610, RESELLER, c3e20eee3f780d68
+facebook.com, 1001595417456972, RESELLER, c3e20eee3f780d68
 
 
 #Facebook Ad Network
